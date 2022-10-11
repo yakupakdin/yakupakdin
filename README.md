@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yakup-yasin-akdin-87a14b210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakup-yasin-akdin-87a14b210" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/16396974/yakup-akdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/16396974/yakup-akdin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/yakup-akdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yakup-akdin" height="30" width="40" /></a>
 <a href="https://instagram.com/yakupakdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yakupakdin" height="30" width="40" /></a>
 </p>
 
